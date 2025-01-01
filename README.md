@@ -59,6 +59,9 @@ Allow location access for automatic weather updates based on your current positi
 # Screenshots 📸
 ![image](https://github.com/user-attachments/assets/8d4d3bfd-b2e2-427e-9b58-3528c9abf12e)
 
+![image](https://github.com/user-attachments/assets/2841e81d-7ede-4b99-b02e-a3902319f369)
+
+
 
 ## Learn More
 
