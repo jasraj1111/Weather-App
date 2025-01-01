@@ -56,7 +56,7 @@ Enter a city name in the search bar to fetch weather data.
 Toggle between Celsius and Fahrenheit using the switch button.
 Allow location access for automatic weather updates based on your current position.
 
-#Screenshots 📸
+# Screenshots 📸
 ![image](https://github.com/user-attachments/assets/8d4d3bfd-b2e2-427e-9b58-3528c9abf12e)
 
 
