@@ -14,6 +14,7 @@ Interactive UI: Aesthetic and responsive design compatible across devices.
 Frontend: React.js
 Styling: Tailwind CSS
 API Integration: OpenWeatherMap API (or any real-time weather API)
+
 ## Available Scripts
 
 In the project directory, you can run:
